@@ -1,3 +1,3 @@
 <?php 
 
-echo 'syntax err test'
+echo 'syntax err test';
